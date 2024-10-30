@@ -6,6 +6,6 @@ public class Practicum {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите свое имя:");
         String name = scanner.nextLine();
-        System.out.println("Привет, привет " + name + "!");
+        System.out.println("Привет, " + name + "!");
     }
 }
